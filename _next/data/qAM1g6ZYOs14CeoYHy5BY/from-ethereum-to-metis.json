@@ -1,0 +1,11 @@
+{
+  "pageProps": {
+    "headMeta": {
+      "title": "Bridge Step Token from Ethereum to Metis  - Step AI",
+      "description": "You can bridge Step Tokens between active chains through LayerZero.",
+      "url": "/from-ethereum-to-metis",
+      "image": "/image/meta.png"
+    }
+  },
+  "__N_SSG": true
+}
